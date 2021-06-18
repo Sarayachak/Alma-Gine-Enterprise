@@ -2,7 +2,7 @@
 
 A simple HTML and CSS page describing a fictive computer service company. 
 
-## To initiate this project
+## How do I initialize this project ? 
 
 - Clone the project and open it on your code editor
 - Open alma.html with your default browser
