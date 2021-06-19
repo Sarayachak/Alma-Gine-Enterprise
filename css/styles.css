@@ -13,17 +13,22 @@ html, body {
   nav {
     margin: 0;
     padding: 20px 0;
-    
   }
-  
+
   nav li {
     display:inline;
     color: #fff;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    font-size: 12px;
-    width: 80px;
-    
+    font-size: 20px;
+    padding: 20px;
+    width: 100%;
+    margin:50px;  
+  }
+
+  nav li:hover{
+      transition: 0.3s;
+      border: dotted darkcyan 2px;
   }
   
   main {
